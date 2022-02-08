@@ -1,0 +1,41 @@
+.logopic{
+    position: absolute;
+    margin-left: 144px;
+    margin-top: 42px;
+}
+.container{
+    display: flex;
+}
+.container_headrer{
+    display: flex;
+    position: absolute;
+    left: 650px;
+    top: 42px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    /* identical to box height, or 200% */ 
+    color: #2F281E;
+}
+.customers{
+    position: relative;
+    left: 5%;
+}
+.pricing{
+    position: relative;
+    left: 15%;
+}
+.resources{
+    position: relative;
+    left: 20%;
+}
+.signin-btn{
+    position: relative;
+    left: 25%;
+    top: 5px;
+    width: 102px;
+    height: 46px;
+    
+}
